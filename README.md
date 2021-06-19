@@ -1,7 +1,7 @@
 ### Hi, I'm Marat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## exCustomer support lead with passion for web development 
-- 🌐 I also like web design 
+- 🌐 I also interested in web design 
 - 🌱 I’m currently learning JavaScript (ES6+) 
 - 👨‍💻 I’m looking for a job as a junior front-end developer
 - 👉 And I already create websites using: 
