@@ -3,7 +3,7 @@
 ## exCustomer support lead with passion for web development 
 - 🌐 I also interested in web design 
 - 🌱 I’m currently learning JavaScript (ES6+) 
-- 👨‍💻 I’m looking for a job as a junior front-end developer
+- 👨‍💻 I’m looking for a job as a front-end developer
 - 👉 And I already create websites using: 
   * HTML 
   * BEM
