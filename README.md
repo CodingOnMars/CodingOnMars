@@ -1,17 +1,23 @@
-### Hi, I'm Marat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Marat 👋
 
-## exTech support lead with passion for web development 
-- 🌐 I also interested in web design 
-- 🌱 I’m currently learning JavaScript (ES6+) 
-- 👨‍💻 I’m looking for a job as a front-end developer
-- 👉 And I already create websites using: 
-  * HTML 
-  * BEM
-  * CSS | SASS (SCSS)
-  * JavaScript 
-  * jQuery
-  * Figma
-  * Gulp
+## exTech support lead with passion for frontend web development 
+- 🌐 I also interested in web design; 
+- 🌱 I’m currently learning React; 
+- 👨‍💻 I’m looking for a job as a junior front-end developer.
+- :books: My stack:
+  * HTML5 
+  * CSS3
+  * JavaScript (ES5, ES6+);
+  * TypeScript (basic).
+- :blue_book: Frameworks/libraries:
+  - jQuery (basic)
+  - React (basic)
+  - Angular (basic)
+- :book: Other:
+   * SASS (SCSS)
+   * BEM
+   * Gulp 4;
+   * VS Code
 
 [![CodingOnMars's github stats](https://github-readme-stats.vercel.app/api?username=CodingOnMars&count_private=true&include_all_commits=true&theme=react)](https://github.com/CodingOnMars)
 ## My website and contacts:
