@@ -4,20 +4,20 @@
 - 🌐 I also interested in web design; 
 - 🌱 I’m currently learning React; 
 - 👨‍💻 I’m looking for a job as a junior front-end developer.
-- :books: My stack:
-  * HTML5 
-  * CSS3
+- :books: **My stack:**
+  * HTML5;
+  * CSS3;
   * JavaScript (ES5, ES6+);
   * TypeScript (basic).
-- :blue_book: Frameworks/libraries:
-  - jQuery (basic)
-  - React (basic)
-  - Angular (basic)
-- :book: Other:
-   * SASS (SCSS)
-   * BEM
+- :blue_book: **Frameworks/libraries:**
+  - jQuery (basic);
+  - React (basic);
+  - Angular (basic).
+- :book: **Other:**
+   * SASS (SCSS);
+   * BEM;
    * Gulp 4;
-   * VS Code
+   * VS Code.
 
 [![CodingOnMars's github stats](https://github-readme-stats.vercel.app/api?username=CodingOnMars&count_private=true&include_all_commits=true&theme=react)](https://github.com/CodingOnMars)
 ## My website and contacts:
